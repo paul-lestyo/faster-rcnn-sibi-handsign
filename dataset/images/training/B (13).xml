@@ -1,0 +1,26 @@
+<annotation>
+	<folder>B</folder>
+	<filename>B (13).jpg</filename>
+	<path>D:\SIBI_datasets_LEMLITBANG\SIBI_datasets_LEMLITBANG_SIBI_R_90.10_RAW\SIBI_datasets_LEMLITBANG_SIBI_R_90.10_RAW\training\B\B (13).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2500</width>
+		<height>2500</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>B</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>836</xmin>
+			<ymin>431</ymin>
+			<xmax>1750</xmax>
+			<ymax>1998</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>R</folder>
+	<filename>R (2).jpg</filename>
+	<path>D:\SIBI_datasets_LEMLITBANG\SIBI_datasets_LEMLITBANG_SIBI_R_90.10_RAW\SIBI_datasets_LEMLITBANG_SIBI_R_90.10_RAW\validation\R\R (2).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2000</width>
+		<height>2000</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>R</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>723</xmin>
+			<ymin>213</ymin>
+			<xmax>1612</xmax>
+			<ymax>1821</ymax>
+		</bndbox>
+	</object>
+</annotation>
